@@ -1,0 +1,4 @@
+NCC001,TGDD,HN,0123456789,tgdd@gmail.com
+NCC002,Cho lon,NT,0987654321,cholon@gmail.com
+NCC003,Dien may xanh,HCM,0246813579,dmx@gmail.com
+NCC004,FPT,DN,0123456789,fpt@gmail.com

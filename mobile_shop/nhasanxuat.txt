@@ -1,0 +1,4 @@
+NSX001,Apple,0123456789,USA,apple@gmail.com
+NSX002,SamSung,0387252609,KOREA,samSung@gmail.com
+NSX003,Oppo,0966763958,CHINA,oppo@gmail.com
+NSX004,Nokia,0976124506,FINLAND,nokia@gmail.com
